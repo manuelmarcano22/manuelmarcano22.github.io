@@ -33,6 +33,18 @@ body>header div a:hover{
 }
 
 #content{
+opacity:0.9;
+background-color:#D3DDDE;
+width:580px;
+}
+
+a{
+font-weight:500;
+color:#6D3B22;
+}
+
+/*
+#content{
 background-color:#9BBAB2;
 width:462px;
 }
@@ -40,6 +52,7 @@ width:462px;
 a{
 color:#452F27;
 }
+*/
 
 #connections{
   list-style-type:none;
