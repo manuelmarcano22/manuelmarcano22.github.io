@@ -1,9 +1,9 @@
 body{
 
-/*  font-family: "Slabo 27px", "Helvetica Neue", Helvetica, Arial, sans-serif;
-/*  font-weight:500;
+  font-family: "Slabo 27px", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:500;
 /*  font-family: "ff-providence-sans-web-pro-1","ff-providence-sans-web-pro-2",sans-serif;*/
-  font-family: 'Yanone Kaffeesatz', Helvetica, arial, serif;
+/*  font-family: 'Yanone Kaffeesatz', Helvetica, arial, serif;
 /*  background: black url("http://farm5.static.flickr.com/4093/4953449631_57e5c365a7_b.jpg") fixed no-repeat center center;*/
    background: black url("./b.png") fixed no-repeat center center;
   }
